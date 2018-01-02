@@ -65,8 +65,8 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "57",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -100,7 +100,7 @@
           },
           "title": "<br>You can leave<br>security<br>to us!",
           "text": "Metro Security Services of Wisconsin<br> is a trusted &nbsp;provider of security guards at <br>Milwaukee Airport , auto auctions and<br>events &nbsp;in the Milwaukee area..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"company.html#header1-8\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
