@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Metro Security Services - Keep",
-    "currentPage": "cmethods.html",
+    "currentPage": "cobjectives.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 47,
-    "versionPublish": "4.5.1",
+    "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -100,7 +100,7 @@
           },
           "title": "<br>You can leave<br>security<br>to us!",
           "text": "Metro Security Services of Wisconsin<br> is a trusted &nbsp;provider of security guards at <br>Milwaukee Airport , auto auctions and<br>events &nbsp;in the Milwaukee area..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"company.html#header1-8\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel: +1 -262-8349009\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-phone-2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Call Now!</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"company.html#header1-8\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -193,6 +193,41 @@
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">METRO SECURITY</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"company.html\">Company</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coverview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cobjectives.html\">Objectives</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cqualifications.html\">Qualifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmethods.html\">Methods</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbb.html\">BBB Rating</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicesoverview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professional.html\">Professional</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Testimonials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ctestimonials.html\">Client Reviews</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contactmow.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact NOW</a></li>"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "2027 W. Fond du Lac Milwaukee, WI.  53205",
+              "placeId": "ChIJz4TpsuAbBYgR1BLS18kHt_0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
+          "text2": "<strong>Links</strong><ul><li><a href=\"company.html\" class=\"text-white\">Company Info</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicesoverview.html\" class=\"text-white\">Services Overview</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"ctestimonials.html\" class=\"text-white\">Client Reviews</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-6"
         },
         {
           "_inherit": "social-buttons1",
@@ -392,6 +427,9 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts2-6",
@@ -413,7 +451,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
+          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
           "text2": "<strong>Links</strong><ul><li><a href=\"company.html\" class=\"text-white\">Company Info</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicesoverview.html\" class=\"text-white\">Services Overview</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"ctestimonials.html\" class=\"text-white\">Client Reviews</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
@@ -1470,6 +1508,9 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts2-6",
@@ -1491,7 +1532,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
+          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
           "text2": "<strong>Links</strong><ul><li><a href=\"company.html\" class=\"text-white\">Company Info</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicesoverview.html\" class=\"text-white\">Services Overview</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"ctestimonials.html\" class=\"text-white\">Client Reviews</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
@@ -1962,7 +2003,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT<br> METRO SECURITY",
-          "subtitle": "Enter required fields(*) and a brief message and the owner will contact you promptly.",
+          "subtitle": "Enter required fields(*) and a brief message and &nbsp;they &nbsp;will &nbsp;contact you promptly.",
           "form": {
             "action": "info@metrosecurityserviceswi.com",
             "alerts": {
@@ -2369,6 +2410,9 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts2-6",
@@ -2390,7 +2434,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
+          "text1": "<strong>Address</strong><br>2027 W. Fond du Lac<br>Milwaukee, WI.<br>53205<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>info@metrosecurityserviceswi.com<br>\nPh:: +1 (262) 834-9009<br>\nFax: 1+ (414) 972 5332",
           "text2": "<strong>Links</strong><ul><li><a href=\"company.html\" class=\"text-white\">Company Info</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicesoverview.html\" class=\"text-white\">Services Overview</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"ctestimonials.html\" class=\"text-white\">Client Reviews</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {

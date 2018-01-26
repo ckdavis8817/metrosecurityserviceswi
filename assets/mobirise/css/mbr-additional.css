@@ -763,6 +763,12 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts2-6 P {
+  text-align: left;
+}
+#contacts2-6 STRONG {
+  color: #ffffff;
+}
 #social-buttons3-2 .mbr-section-title,
 #social-buttons3-2 .btn-social {
   color: #fff;
@@ -841,6 +847,9 @@ h6,
 }
 #contacts2-6 P {
   text-align: left;
+}
+#contacts2-6 STRONG {
+  color: #ffffff;
 }
 #social-buttons4-7 .mbr-section-title,
 #social-buttons4-7 .btn-social {
@@ -1267,6 +1276,9 @@ h6,
 #contacts2-6 P {
   text-align: left;
 }
+#contacts2-6 STRONG {
+  color: #ffffff;
+}
 #ext_menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1647,4 +1659,7 @@ h6,
 }
 #contacts2-6 P {
   text-align: left;
+}
+#contacts2-6 STRONG {
+  color: #ffffff;
 }
