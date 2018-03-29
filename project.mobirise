@@ -1914,6 +1914,9 @@
             ".lead P": {
               "text-align": "center",
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
