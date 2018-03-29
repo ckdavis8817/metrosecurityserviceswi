@@ -1425,6 +1425,26 @@ h6,
 #msg-box3-t .btn {
   font-size: 14px;
 }
+#msg-box8-1d .mbr-section-title,
+#msg-box8-1d p {
+  color: #fff;
+}
+#msg-box8-1d .lead P {
+  text-align: center;
+  color: #ffffff;
+}
+#contacts3-1b LI {
+  color: #ffffff;
+}
+#contacts3-1b H4 {
+  color: #ffffff;
+}
+#contacts3-1b STRONG {
+  color: #ffffff;
+}
+#contacts3-1b P {
+  color: #fac51c;
+}
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1485,16 +1505,6 @@ h6,
 #ext_menu-u .link[aria-expanded="true"],
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#form1-v .form-control-label {
-  color: #ffffff;
-}
-#form1-v .mbr-section-title {
-  color: #f7da64;
-  font-size: 30px;
-}
-#form1-v SMALL {
-  color: #ffffff;
 }
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
